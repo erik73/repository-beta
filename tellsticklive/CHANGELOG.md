@@ -1,3 +1,3 @@
 ## What’s changed
 
-* New release to fix errors
+* Publish to the correct stable repo this time!
