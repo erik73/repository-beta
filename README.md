@@ -136,10 +136,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-mailserver]: https://github.com/erik73/addon-mail/tree/v0.5.5
-[addon-doc-mailserver]: https://github.com/erik73/addon-mail/blob/v0.5.5/README.md
+[addon-mailserver]: https://github.com/erik73/addon-mail/tree/v0.5.7
+[addon-doc-mailserver]: https://github.com/erik73/addon-mail/blob/v0.5.7/README.md
 [mailserver-issue]: https://github.com/erik73/addon-mail/issues
-[mailserver-version-shield]: https://img.shields.io/badge/version-v0.5.5-blue.svg
+[mailserver-version-shield]: https://img.shields.io/badge/version-v0.5.7-blue.svg
 [mailserver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailserver-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
