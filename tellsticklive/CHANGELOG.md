@@ -1,5 +1,3 @@
 ## What’s changed
 
-## 🚀 Enhancements
-
-- Prepare for release @erik73 (#5)
+* New release to fix errors
