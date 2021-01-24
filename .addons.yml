@@ -13,3 +13,7 @@ addons:
     repository: erik73/addon-mailfilter
     target: mailfilter
     image: ghcr.io/erik73/mailfilter/{arch}
+  tellsticklive:
+    repository: erik73/addon-tellsticklive
+    target: tellsticklive
+    image: ghcr.io/erik73/tellsticklive/{arch}
