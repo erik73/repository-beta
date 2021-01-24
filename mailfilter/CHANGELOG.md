@@ -1,3 +1,5 @@
 ## What’s changed
 
-* Moved to new repo
+## 🚀 Enhancements
+
+- Prepare for release @erik73 (#7)
