@@ -1,3 +1,5 @@
 ## What’s changed
 
-* Update DOC
+## 🚀 Enhancements
+
+- Update base image @erik73 (#7)
