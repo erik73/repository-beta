@@ -2,7 +2,8 @@
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
-Postfix/Dovecot mailserver with Postfixadmin web interface...
+A mail server for Home Assistant.
+Provides Postfix, Postfix Admin web interface and Dovecot IMAP.
 
 ## About
 
@@ -30,5 +31,5 @@ If you are more interested in stable releases of our add-ons:
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v1.1.0-blue.svg
-[release]: https://github.com/erik73/addon-mail/tree/v1.1.0
+[release-shield]: https://img.shields.io/badge/version-v1.1.1-blue.svg
+[release]: https://github.com/erik73/addon-mail/tree/v1.1.1
