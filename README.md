@@ -1,16 +1,12 @@
-# EDGE - Home Assistant Community Add-ons
+# BETA - Home Assistant Add-ons by erik73
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
+## WARNING! THIS IS A BETA REPOSITORY
 
-## WARNING! THIS IS AN EDGE REPOSITORY
-
-This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
-builds add-ons are based upon the latest development version.
+This Home Assistant Add-ons repository contains beta builds of add-ons.
 
 - They may not work at all.
 - They might stop working at any time.
@@ -24,7 +20,7 @@ This repository was created for:
 
 If you are more interested in stable releases of our add-ons:
 
-<https://github.com/hassio-addons/repository>
+<https://github.com/erik73/hassio-addons>
 
 ## Installation
 
@@ -49,7 +45,7 @@ https://github.com/erik73/repository-beta
 ![Supports amd64 Architecture][mailfilter-amd64-shield]
 ![Supports i386 Architecture][mailfilter-i386-shield]
 
-Rspamd Mailfilter for Home Assistant
+Rspamd mailfilter for Home Assistant
 
 [:books: Mailfilter add-on documentation][addon-doc-mailfilter]
 
@@ -94,22 +90,23 @@ TellStick and TellStick Duo service with Telldus Live
 
 ## Releases
 
-Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
-all our other repositories. The latest build commit SHA hash of each
-add-on, represents the version number.
+Releases are based on [Semantic Versioning][semver], and use the format
+of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
+based on the following:
+
+- ``MAJOR``: Incompatible or major changes.
+- ``MINOR``: Backwards-compatible new features and enhancements.
+- ``PATCH``: Backwards-compatible bugfixes and package updates.
+
+The beta add-ons will also have an additional beta marker, unless, the
+stable release is newer, in that case, the stable release is published
+in this channel.
 
 ## Support
 
 Got questions?
 
-You have several options to get them answered:
-
-- The Home Assistant Community Add-ons [Discord Chat Server][discord]
-- The Home Assistant [Community Forum][forum].
-- The Home Assistant [Discord Chat Server][discord-ha].
-- Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
-
-You could also open an issue here on GitHub. Note, we use a separate
+You could open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
@@ -120,31 +117,11 @@ on the correct GitHub repository matching the add-on.
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
-## Contributing
-
-This is an active open-source project. We are always open to people who want to
-use the code or contribute to it.
-
-We have set up a separate document containing our
-[contribution guidelines](CONTRIBUTING.md).
-
-Thank you for being involved! :heart_eyes:
-
-## Adding a new add-on
-
-We are currently not accepting third party add-ons to this repository.
-
-For questions, please contact [Franck Nijhof][frenck]:
-
-- Drop him an email: frenck@addons.community
-- Chat with him on [Discord Chat][discord]
-- Message him via the forums: [frenck][forum-frenck]
-
 ## License
 
 MIT License
 
-Copyright (c) 2018-2021 Franck Nijhof
+Copyright (c) 2018-2021 Erik Hilton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -200,17 +177,9 @@ SOFTWARE.
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tellsticklive-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tellsticklive-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[discord-ha]: https://discord.gg/c5DvZ4e
-[discord-shield]: https://img.shields.io/discord/478094546522079232.svg
-[discord]: https://discord.me/hassioaddons
-[forum-frenck]: https://community.home-assistant.io/u/frenck/?u=frenck
-[forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
-[forum]: https://community.home-assistant.io?u=frenck
-[frenck]: https://github.com/frenck
 [issue]: https://github.com/erik73/repository-beta/issues
 [license-shield]: https://img.shields.io/github/license/erik73/repository-beta.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-development-yellowgreen.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
-[third-party-addons]: https://home-assistant.io/hassio/installing_third_party_addons/
