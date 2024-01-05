@@ -29,7 +29,7 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/erik73/hassio-addons>
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v2.0.2-blue.svg
-[release]: https://github.com/erik73/addon-mail/tree/v2.0.2
+[release-shield]: https://img.shields.io/badge/version-v2.0.3-blue.svg
+[release]: https://github.com/erik73/addon-mail/tree/v2.0.3
