@@ -1,4 +1,4 @@
-# Home Assistant Add-on: phpMyAdmin
+# Home Assistant Add-on: "Unofficial" phpMyAdmin
 
 [![Release][release-shield]][release] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield]
 
@@ -42,6 +42,6 @@ If you are more interested in stable releases of our add-ons:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[release-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
-[release]: https://github.com/erik73/addon-phpmyadmin/tree/v1.0.1
+[release-shield]: https://img.shields.io/badge/version-v1.0.2-blue.svg
+[release]: https://github.com/erik73/addon-phpmyadmin/tree/v1.0.2
 [screenshot]: https://github.com/erik73/addon-phpmyadmin/raw/main/images/screenshot.png
