@@ -36,7 +36,7 @@ https://github.com/erik73/repository-beta
 
 ## Apps provided by this repository
 
-### &#10003; [Mailfilter][addon-mailfilter]
+### &#10003; [Mailfilter][app-mailfilter]
 
 ![Latest Version][mailfilter-version-shield]
 ![Supports armhf Architecture][mailfilter-armhf-shield]
@@ -47,9 +47,9 @@ https://github.com/erik73/repository-beta
 
 Rspamd mailfilter for Home Assistant
 
-[:books: Mailfilter app documentation][addon-doc-mailfilter]
+[:books: Mailfilter app documentation][app-doc-mailfilter]
 
-### &#10003; [Mailserver][addon-mailserver]
+### &#10003; [Mailserver][app-mailserver]
 
 ![Latest Version][mailserver-version-shield]
 ![Supports armhf Architecture][mailserver-armhf-shield]
@@ -60,9 +60,9 @@ Rspamd mailfilter for Home Assistant
 
 Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web interface
 
-[:books: Mailserver app documentation][addon-doc-mailserver]
+[:books: Mailserver app documentation][app-doc-mailserver]
 
-### &#10003; [MariaDB][addon-mariadb]
+### &#10003; [MariaDB][app-mariadb]
 
 ![Latest Version][mariadb-version-shield]
 ![Supports armhf Architecture][mariadb-armhf-shield]
@@ -73,9 +73,9 @@ Postfix and Dovecot mail server for Home Assistant, with Postfix Admin web inter
 
 A SQL database server
 
-[:books: MariaDB app documentation][addon-doc-mariadb]
+[:books: MariaDB app documentation][app-doc-mariadb]
 
-### &#10003; [Roundcube][addon-roundcube]
+### &#10003; [Roundcube][app-roundcube]
 
 ![Latest Version][roundcube-version-shield]
 ![Supports armhf Architecture][roundcube-armhf-shield]
@@ -86,9 +86,9 @@ A SQL database server
 
 Roundcube webmail client
 
-[:books: Roundcube app documentation][addon-doc-roundcube]
+[:books: Roundcube app documentation][app-doc-roundcube]
 
-### &#10003; [SteVe][addon-steve]
+### &#10003; [SteVe][app-steve]
 
 ![Latest Version][steve-version-shield]
 ![Supports armhf Architecture][steve-armhf-shield]
@@ -99,9 +99,9 @@ Roundcube webmail client
 
 OCPP server for EV charging stations
 
-[:books: SteVe app documentation][addon-doc-steve]
+[:books: SteVe app documentation][app-doc-steve]
 
-### &#10003; [TellStick with Telldus Live][addon-tellsticklive]
+### &#10003; [TellStick with Telldus Live][app-tellsticklive]
 
 ![Latest Version][tellsticklive-version-shield]
 ![Supports armhf Architecture][tellsticklive-armhf-shield]
@@ -112,9 +112,9 @@ OCPP server for EV charging stations
 
 TellStick and TellStick Duo service with Telldus Live
 
-[:books: TellStick with Telldus Live app documentation][addon-doc-tellsticklive]
+[:books: TellStick with Telldus Live app documentation][app-doc-tellsticklive]
 
-### &#10003; [phpMyAdmin][addon-phpmyadmin]
+### &#10003; [phpMyAdmin][app-phpmyadmin]
 
 ![Latest Version][phpmyadmin-version-shield]
 ![Supports armhf Architecture][phpmyadmin-armhf-shield]
@@ -125,7 +125,7 @@ TellStick and TellStick Duo service with Telldus Live
 
 A web interface for the official MariaDB app
 
-[:books: phpMyAdmin app documentation][addon-doc-phpmyadmin]
+[:books: phpMyAdmin app documentation][app-doc-phpmyadmin]
 
 ## Releases
 
@@ -183,26 +183,26 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-mailfilter]: https://github.com/erik73/addon-mailfilter/tree/v5.0.0
-[addon-doc-mailfilter]: https://github.com/erik73/addon-mailfilter/blob/v5.0.0/README.md
-[mailfilter-issue]: https://github.com/erik73/addon-mailfilter/issues
+[app-mailfilter]: https://github.com/erik73/app-mailfilter/tree/v5.0.0
+[app-doc-mailfilter]: https://github.com/erik73/app-mailfilter/blob/v5.0.0/README.md
+[mailfilter-issue]: https://github.com/erik73/app-mailfilter/issues
 [mailfilter-version-shield]: https://img.shields.io/badge/version-v5.0.0-blue.svg
 [mailfilter-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailfilter-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailfilter-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailfilter-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mailfilter-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-mailserver]: https://github.com/erik73/addon-mail/tree/v6.0.2
-[addon-doc-mailserver]: https://github.com/erik73/addon-mail/blob/v6.0.2/README.md
-[mailserver-issue]: https://github.com/erik73/addon-mail/issues
+[app-mailserver]: https://github.com/erik73/app-mail/tree/v6.0.2
+[app-doc-mailserver]: https://github.com/erik73/app-mail/blob/v6.0.2/README.md
+[mailserver-issue]: https://github.com/erik73/app-mail/issues
 [mailserver-version-shield]: https://img.shields.io/badge/version-v6.0.2-blue.svg
 [mailserver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mailserver-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mailserver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mailserver-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mailserver-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-mariadb]: https://github.com/erik73/app-mariadb/tree/v2.0.3
-[addon-doc-mariadb]: https://github.com/erik73/app-mariadb/blob/v2.0.3/README.md
+[app-mariadb]: https://github.com/erik73/app-mariadb/tree/v2.0.3
+[app-doc-mariadb]: https://github.com/erik73/app-mariadb/blob/v2.0.3/README.md
 [mariadb-issue]: https://github.com/erik73/app-mariadb/issues
 [mariadb-version-shield]: https://img.shields.io/badge/version-v2.0.3-blue.svg
 [mariadb-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -210,8 +210,8 @@ SOFTWARE.
 [mariadb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mariadb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [mariadb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-roundcube]: https://github.com/erik73/app-roundcube/tree/v2.0.1
-[addon-doc-roundcube]: https://github.com/erik73/app-roundcube/blob/v2.0.1/README.md
+[app-roundcube]: https://github.com/erik73/app-roundcube/tree/v2.0.1
+[app-doc-roundcube]: https://github.com/erik73/app-roundcube/blob/v2.0.1/README.md
 [roundcube-issue]: https://github.com/erik73/app-roundcube/issues
 [roundcube-version-shield]: https://img.shields.io/badge/version-v2.0.1-blue.svg
 [roundcube-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -219,8 +219,8 @@ SOFTWARE.
 [roundcube-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [roundcube-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [roundcube-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-steve]: https://github.com/erik73/app-steve/tree/v3.0.0
-[addon-doc-steve]: https://github.com/erik73/app-steve/blob/v3.0.0/README.md
+[app-steve]: https://github.com/erik73/app-steve/tree/v3.0.0
+[app-doc-steve]: https://github.com/erik73/app-steve/blob/v3.0.0/README.md
 [steve-issue]: https://github.com/erik73/app-steve/issues
 [steve-version-shield]: https://img.shields.io/badge/version-v3.0.0-blue.svg
 [steve-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -228,8 +228,8 @@ SOFTWARE.
 [steve-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [steve-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [steve-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-tellsticklive]: https://github.com/erik73/app-tellsticklive/tree/v1.1.8
-[addon-doc-tellsticklive]: https://github.com/erik73/app-tellsticklive/blob/v1.1.8/README.md
+[app-tellsticklive]: https://github.com/erik73/app-tellsticklive/tree/v1.1.8
+[app-doc-tellsticklive]: https://github.com/erik73/app-tellsticklive/blob/v1.1.8/README.md
 [tellsticklive-issue]: https://github.com/erik73/app-tellsticklive/issues
 [tellsticklive-version-shield]: https://img.shields.io/badge/version-v1.1.8-blue.svg
 [tellsticklive-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -237,8 +237,8 @@ SOFTWARE.
 [tellsticklive-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tellsticklive-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tellsticklive-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/tree/v2.0.5
-[addon-doc-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/blob/v2.0.5/README.md
+[app-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/tree/v2.0.5
+[app-doc-phpmyadmin]: https://github.com/erik73/app-phpmyadmin/blob/v2.0.5/README.md
 [phpmyadmin-issue]: https://github.com/erik73/app-phpmyadmin/issues
 [phpmyadmin-version-shield]: https://img.shields.io/badge/version-v2.0.5-blue.svg
 [phpmyadmin-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
