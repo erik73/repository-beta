@@ -1,0 +1,27 @@
+# Add-on: InfluxDB2
+
+Scalable datastore for metrics, events, and real-time analytics.
+
+## About
+
+InfluxDB v2 is an open source time series database optimized for high-write-volume.
+It's useful for recording metrics, sensor data, events,
+and performing analytics. It exposes an HTTP API for client interaction and if
+often used in combination with Grafana to visualize the data.
+
+InfluxDB v2 gives you a nice InfluxDB admin interface for managing your users, databases,
+data retention settings, and lets you peek inside the database using the
+Data Explorer.
+
+## WARNING! THIS IS A BETA VERSION!
+
+This Home Assistant Add-ons repository contains beta releases of add-ons.
+
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+
