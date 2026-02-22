@@ -15,7 +15,7 @@ Data Explorer.
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Home Assistant Add-ons repository contains beta releases of add-ons.
+This Home Assistant Apps repository contains beta releases of apps.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -23,5 +23,11 @@ This Home Assistant Add-ons repository contains beta releases of add-ons.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 
+If you are more interested in stable releases of our apps:
+
+<https://github.com/erik73/hassio-addons>
+
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg

@@ -197,10 +197,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[app-influxdb2]: https://github.com/erik73/app-influxdb2/tree/v0.1.1
-[app-doc-influxdb2]: https://github.com/erik73/app-influxdb2/blob/v0.1.1/README.md
+[app-influxdb2]: https://github.com/erik73/app-influxdb2/tree/v1.0.0
+[app-doc-influxdb2]: https://github.com/erik73/app-influxdb2/blob/v1.0.0/README.md
 [influxdb2-issue]: https://github.com/erik73/app-influxdb2/issues
-[influxdb2-version-shield]: https://img.shields.io/badge/version-v0.1.1-blue.svg
+[influxdb2-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
 [influxdb2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [influxdb2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [influxdb2-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
