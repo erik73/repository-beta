@@ -1,0 +1,33 @@
+# Add-on: InfluxDB3
+
+Scalable datastore for metrics, events, and real-time analytics.
+
+## About
+
+InfluxDB3 is an open source time series database optimized for high-write-volume.
+It's useful for recording metrics, sensor data, events,
+and performing analytics. It exposes an HTTP API for client interaction and if
+often used in combination with Grafana to visualize the data.
+
+InfluxDB3 gives you a nice InfluxDB admin interface for managing your users, databases,
+data retention settings, and lets you peek inside the database using the
+Data Explorer.
+
+## WARNING! THIS IS A BETA VERSION!
+
+This Home Assistant Apps repository contains beta releases of apps.
+
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming apps or app features.
+
+If you are more interested in stable releases of our apps:
+
+<https://github.com/erik73/hassio-addons>
+
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
