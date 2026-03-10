@@ -62,6 +62,19 @@ Scalable datastore for metrics, events, and real-time analytics
 
 [:books: InfluxDB3 app documentation][app-doc-influxdb3]
 
+### &#10003; [InfluxDB3 Explorer][app-influxdb3-explorer]
+
+![Latest Version][influxdb3-explorer-version-shield]
+![Supports armhf Architecture][influxdb3-explorer-armhf-shield]
+![Supports armv7 Architecture][influxdb3-explorer-armv7-shield]
+![Supports aarch64 Architecture][influxdb3-explorer-aarch64-shield]
+![Supports amd64 Architecture][influxdb3-explorer-amd64-shield]
+![Supports i386 Architecture][influxdb3-explorer-i386-shield]
+
+InfluxDB3 Explorer for Home Assistant
+
+[:books: InfluxDB3 Explorer app documentation][app-doc-influxdb3-explorer]
+
 ### &#10003; [Mailfilter][app-mailfilter]
 
 ![Latest Version][mailfilter-version-shield]
@@ -177,6 +190,7 @@ on the correct GitHub repository matching the app.
 
 - [Open an issue for the app: InfluxDB2][influxdb2-issue]
 - [Open an issue for the app: InfluxDB3][influxdb3-issue]
+- [Open an issue for the app: InfluxDB3 Explorer][influxdb3-explorer-issue]
 - [Open an issue for the app: Mailfilter][mailfilter-issue]
 - [Open an issue for the app: Mailserver][mailserver-issue]
 - [Open an issue for the app: MariaDB][mariadb-issue]
@@ -229,6 +243,15 @@ SOFTWARE.
 [influxdb3-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb3-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [influxdb3-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[app-influxdb3-explorer]: https://github.com/erik73/app-influxdb3-explorer/tree/v0.1.0
+[app-doc-influxdb3-explorer]: https://github.com/erik73/app-influxdb3-explorer/blob/v0.1.0/README.md
+[influxdb3-explorer-issue]: https://github.com/erik73/app-influxdb3-explorer/issues
+[influxdb3-explorer-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[influxdb3-explorer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[influxdb3-explorer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[influxdb3-explorer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[influxdb3-explorer-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[influxdb3-explorer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [app-mailfilter]: https://github.com/erik73/app-mailfilter/tree/v5.0.2
 [app-doc-mailfilter]: https://github.com/erik73/app-mailfilter/blob/v5.0.2/README.md
 [mailfilter-issue]: https://github.com/erik73/app-mailfilter/issues
