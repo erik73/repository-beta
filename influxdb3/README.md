@@ -37,4 +37,4 @@ If you are more interested in stable releases of our apps:
 <https://github.com/erik73/hassio-addons>
 
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2026.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
